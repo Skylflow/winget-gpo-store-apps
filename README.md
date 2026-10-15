@@ -6,11 +6,7 @@ applies to — silently, **without Intune**, **without admin rights**, and **wit
 Microsoft Store for Business is retired and the official route now runs through Intune. If your PCs are
 joined to Active Directory and managed with plain Group Policy, this fills the gap.
 
-📖 Step-by-step guide with screenshots:
-[English](https://onemount.app/learn/deploy-microsoft-store-apps-gpo/) ·
-[Українською](https://onemount.app/uk/learn/deploy-microsoft-store-apps-gpo/)
-
-![Two Store apps installed and opened automatically on a standard user's first logon](docs/result-first-logon.webp)
+📖 Step-by-step guide with screenshots: https://onemount.app/learn/deploy-microsoft-store-apps-gpo/
 
 ## How it works
 
