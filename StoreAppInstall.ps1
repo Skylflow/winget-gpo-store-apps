@@ -39,7 +39,8 @@ param(
   #
   # Apps marked "exe installer" are Store listings that run the publisher's own
   # setup program; some of them ask for admin rights, which a regular user
-  # can't approve (the log says so). True Store apps never need admin rights.
+  # can't approve (the log says so). True Store apps (msstore) installed
+  # without admin rights in all our tests.
   # ==========================================================================
   [object[]]$Apps = @(
     @{ Name = 'OneMount';  StoreId = '9P68LJCNCHND' }
